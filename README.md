@@ -2,7 +2,7 @@
 
 ![.github/workflows/workflow.yml](https://github.com/data-apis/python-record-api/workflows/.github/workflows/workflow.yml/badge.svg?branch=master)
 
-This module is mean to help you understand how a Python module is being used by other modules. Currently, this logs all function calls from running a module, or when running pytest, from a specified module to another module. Then it builds hypothetical API for the target module, given all the calls it has taken.
+This module is meant to help you understand how a Python module is being used by other modules. Currently, this logs all function calls from running a module, or when running pytest, from a specified module to another module. Then it builds hypothetical API for the target module, given all the calls it has taken.
 
 
 *Sample generated function, from [`data/typing/numpy.py`](./data/typing/numpy.py)*
